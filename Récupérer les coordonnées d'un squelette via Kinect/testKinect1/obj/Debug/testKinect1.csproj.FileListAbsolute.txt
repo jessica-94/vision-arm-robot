@@ -1,0 +1,11 @@
+c:\users\sti2d-sin\documents\visual studio 2015\Projects\testKinect1\testKinect1\bin\Debug\testKinect1.exe.config
+C:\Users\STI2D-SIN\documents\visual studio 2015\Projects\testKinect1\testKinect1\bin\Debug\testKinect1.exe
+C:\Users\STI2D-SIN\documents\visual studio 2015\Projects\testKinect1\testKinect1\bin\Debug\testKinect1.pdb
+C:\Users\STI2D-SIN\documents\visual studio 2015\Projects\testKinect1\testKinect1\bin\Debug\Microsoft.Kinect.dll
+C:\Users\STI2D-SIN\documents\visual studio 2015\Projects\testKinect1\testKinect1\bin\Debug\Microsoft.Kinect.xml
+C:\Users\STI2D-SIN\documents\visual studio 2015\Projects\testKinect1\testKinect1\obj\Debug\testKinect1.csprojResolveAssemblyReference.cache
+C:\Users\STI2D-SIN\documents\visual studio 2015\Projects\testKinect1\testKinect1\obj\Debug\testKinect1.Form1.resources
+C:\Users\STI2D-SIN\documents\visual studio 2015\Projects\testKinect1\testKinect1\obj\Debug\testKinect1.Properties.Resources.resources
+C:\Users\STI2D-SIN\documents\visual studio 2015\Projects\testKinect1\testKinect1\obj\Debug\testKinect1.csproj.GenerateResource.Cache
+C:\Users\STI2D-SIN\documents\visual studio 2015\Projects\testKinect1\testKinect1\obj\Debug\testKinect1.exe
+C:\Users\STI2D-SIN\documents\visual studio 2015\Projects\testKinect1\testKinect1\obj\Debug\testKinect1.pdb
